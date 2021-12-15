@@ -26,12 +26,14 @@
 | 2 | [`UML/Class Diagram`](#) |
 | 3 | [`Association`](#) |
 | 4 | [`Realization`](#) |
-| 5 | [`Generelization`](#) |
-| 6 | [`Dependency`](#) |
-| 7 | [`Aggregation`](#) |
-| 8 | [`Composition`](#) |
-| 9 | [`JDBC`](#) |
-| 10 | [`Swing`](#) |
+| 5 | [`Function Overloading`](#) |
+| 6 | [`Function Overriding`](#) |
+| 7 | [`Generelization`](#) |
+| 8 | [`Dependency`](#) |
+| 9 | [`Aggregation`](#) |
+| 10 | [`Composition`](#) |
+| 11 | [`JDBC`](#) |
+| 12 | [`Swing`](#) |
 
 </div>
       
