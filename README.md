@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src=""/>
+<img src="https://github.com/Goutham-Rajesh/ICT-SERVICE/blob/main/Assets/1.PNG"/>
 
 </div>
       
@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<img src="" alt="drawing"/>
+<img src="https://github.com/Goutham-Rajesh/ICT-SERVICE/blob/main/Assets/2.png" alt="drawing"/>
 
 </div>
 
