@@ -6,7 +6,7 @@
       
 # What is this project?
 
-- ICT SERVICE 
+- Information and communication technology Service
 
 <br/>
 
